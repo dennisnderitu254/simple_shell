@@ -85,7 +85,7 @@ Brief description of functions contained in project:
 README.md: this.
 
 ## General Flow Chart:
-
+![Simple Shell Flowchart](flowchart.png)
 
 ### Contact Info:
 
