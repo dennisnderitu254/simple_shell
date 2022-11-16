@@ -120,6 +120,10 @@ We suggest to implement first the simple case where you expand wildcards in the 
 ## General Flow Chart:
 ![Simple Shell Flowchart](flowchart.png)
 
+## Linked in Reference
+
+[Linked In](https://www.linkedin.com/pulse/tutorial-code-simple-shell-c-ricardo-hincapi%C3%A9-trujillo/)
+
 ### Contact Info:
 
 Git: [Murugi Nthakanio](https://github.com/codebyrugi), [Dennis Nderitu](https://github.com/dennisnderitu254)
