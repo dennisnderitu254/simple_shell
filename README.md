@@ -110,7 +110,6 @@ We suggest to implement first the simple case where you expand wildcards in the 
 
 | Wildcard Character | Regular Expression |
 |--------------------|:------------------:|
-|          "*"                ".*"        |
 |          "?"       |         "."        |
 |          "."       |         "\."       |
 |Beginning of Wildcard |       "^"        |
