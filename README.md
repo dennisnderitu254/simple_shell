@@ -122,7 +122,7 @@ We suggest to implement first the simple case where you expand wildcards in the 
 
 ## Linked in Reference
 
-[Linked In](https://www.linkedin.com/pulse/tutorial-code-simple-shell-c-ricardo-hincapi%C3%A9-trujillo/)
+[Linked In](https://link-url-here.org)
 
 ### Contact Info:
 
