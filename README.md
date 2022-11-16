@@ -115,6 +115,8 @@ We suggest to implement first the simple case where you expand wildcards in the 
 |Beginning of Wildcard |       "^"        |
 |End of Wildcard      |        "$"        |
 
+![Wildcard](wildcard.png)
+
 ## General Flow Chart:
 ![Simple Shell Flowchart](flowchart.png)
 
